@@ -14,3 +14,7 @@
 - [ ] create release with JsInspect
 - [ ] create release with ShrinkWrap
 - [ ] create release with esLint configuration
+
+
+### More documentation
+Structure of Meteor app : https://guide.meteor.com/structure.html#javascript-structure
