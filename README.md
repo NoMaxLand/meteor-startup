@@ -8,6 +8,7 @@
 
 ### TODO
 - [X] Create basic older organization
+- [ ] /!\ Remove insecure and autopublish
 - [ ] explain organization from readMe.md
 - [ ] explain each folder
 - [ ] create basic model, method, publication
